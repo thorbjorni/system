@@ -18,7 +18,7 @@ POWERLINE_RIGHT_B="none"
 POWERLINE_SHOW_GIT_ON_RIGHT="true"
 POWERLINE_DETECT_SSH="true"
 
-source /home/smari/.oh-my-zsh/antigen.zsh
+source ~/.oh-my-zsh/antigen.zsh
 antigen bundle zsh-users/zsh-syntax-highlighting
 antigen apply
 
