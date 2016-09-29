@@ -3,7 +3,7 @@
 
 export ZSH=$HOME/.oh-my-zsh
 
-ZSH_THEME="jeremy"
+ZSH_THEME="blitz"
 #POWERLINE_RIGHT_B="none"
 POWERLINE_RIGHT_A="exit-status"
 POWERLINE_HIDE_GIT_PROMPT_STATUS="true"
