@@ -1,0 +1,1 @@
+/home/smari/.zshrc
